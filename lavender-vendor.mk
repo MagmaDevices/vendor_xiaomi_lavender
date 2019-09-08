@@ -2299,7 +2299,6 @@ PRODUCT_PACKAGES += \
     embms \
     imssettings \
     uceShimService \
-    CNEService \
     WfdService \
     ims \
     qcrilmsgtunnel \
