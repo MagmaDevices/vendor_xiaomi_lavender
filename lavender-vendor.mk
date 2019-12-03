@@ -2267,7 +2267,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     SoterService \
     datastatusnotification \
-    embms \
     imssettings \
     uceShimService \
     WfdService \
