@@ -102,6 +102,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/lavender/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
     vendor/xiaomi/lavender/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
+    vendor/xiaomi/lavender/proprietary/lib/libdng_sdk.so:system/lib/libdng_sdk.so \
     vendor/xiaomi/lavender/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
     vendor/xiaomi/lavender/proprietary/lib/libdpmfdmgr.so:system/lib/libdpmfdmgr.so \
     vendor/xiaomi/lavender/proprietary/lib/libdpmframework.so:system/lib/libdpmframework.so \
@@ -170,6 +171,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/product/lib64/libaptXHD_encoder.so:system/product/lib64/libaptXHD_encoder.so \
     vendor/xiaomi/lavender/proprietary/product/lib64/libaptX_encoder.so:system/product/lib64/libaptX_encoder.so \
     vendor/xiaomi/lavender/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
+    vendor/xiaomi/lavender/proprietary/lib64/libdng_sdk.so:system/lib64/libdng_sdk.so \
     vendor/xiaomi/lavender/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
     vendor/xiaomi/lavender/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
     vendor/xiaomi/lavender/proprietary/lib64/libdpmframework.so:system/lib64/libdpmframework.so \
